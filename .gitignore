@@ -1,0 +1,9 @@
+*.o
+*.bin
+*.bak
+*.asm
+*.sksa
+*.map
+*.elf
+payload
+tmp
